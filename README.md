@@ -1,17 +1,24 @@
 matlab-novice-inflammation
 ==========================
 
-An introduction to MATLAB for non-programmers using inflammation data.
-Please see <https://swcarpentry.github.io/python-novice-inflammation/> for a rendered version of this material,
-[the lesson template documentation][lesson-example]
-for instructions on formatting, building, and submitting material,
-or run `make` in this directory for a list of helpful commands.
+An introduction to Matlab for non-programmers using inflammation data.  
+Please see <https://digital-skills-for-researchers-pd.github.io/matlab-short-lesson/> for a rendered version of this material.
 
-Maintainers:
 
-* [Isabell Kiral-Kornek][kiral-kornek_isabell]
-* [Ashwin Srinath][srinath_ashwin]
+## Community
 
-[lesson-example]: https://swcarpentry.github.io/lesson-example
-[kiral-kornek_isabell]: http://software-carpentry.org/team/#kiral-kornek_isabell
-[srinath_ashwin]: http://software-carpentry.org/team/#srinath_ashwin
+You can find us on [Slack](https://digital-skills-2017.slack.com/)!
+
+Email one of the team to request an invite:
+
+- Fabiana Kubke [f.kubke@auckland.ac.nz](mailto:"f.kubke@auckland.ac.nz")
+- Anthony Jarvis [a.jarvis@auckland.ac.nz](mailto:"a.jarvis@auckland.ac.nz")
+- Manish Kukreja [mkuk073@aucklanduni.ac.nz](mailto:"mkuk073@aucklanduni.ac.nz")
+- Neil Birrell [nbir012@aucklanduni.ac.nz](mailto:"nbir012@aucklanduni.ac.nz")
+
+
+
+## Attributions
+
+Material adapted from [Matlab Lesson](https://github.com/swcarpentry/matlab-novice-inflammation) by Software Carpentry Foundation  
+Logo Credit: [Crash Test Dummy](https://thenounproject.com/term/crash-test-dummy/4954/) by Luis Prado from the Noun Project
